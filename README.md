@@ -1,4 +1,4 @@
-# Saucedemo Site Automation Testing Assessment: standarduser
+# Saucedemo Site Automation Testing Assessment: Standard_User
 
 Feature: 
 Open the login page: https://www.saucedemo.com/
